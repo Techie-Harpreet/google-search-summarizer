@@ -5,7 +5,7 @@ A Django-based web application that allows users to enter a query, fetches the t
 ## 🚀 Features
 
 - Fetches top 5 URLs from Google based on the user query.
-- Extracts text content from the URLs using `newspaper3k`.
+- Extracts text content from the URLs using `newspaper4k`.
 - Uses `SeleniumBase` to scrape search results.
 - Generates a summary using AI (Gemini API).
 - Simple and attractive front-end with API integration.
@@ -14,7 +14,7 @@ A Django-based web application that allows users to enter a query, fetches the t
 
 - **Backend:** Django, Django REST Framework (DRF)
 - **Frontend:** HTML, CSS, JavaScript
-- **Libraries:** SeleniumBase, Newspaper3k
+- **Libraries:** SeleniumBase, Newspaper4k
 - **API Integration:** Google Search, AI Summarization (Gemini API)
 
 ## 📦 Installation
