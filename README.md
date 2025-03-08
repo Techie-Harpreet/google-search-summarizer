@@ -81,5 +81,5 @@ Feel free to fork the repository and submit pull requests! 😊
 
 For any queries, reach out to:
 - **Email:** contact@harpreetsinghbansal.com
-- **LinkedIn:** (https://www.linkedin.com/in/harpreetsinghbansal/)
+- **LinkedIn:**  [Click Here](https://www.linkedin.com/in/harpreetsinghbansal/)
 
